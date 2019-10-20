@@ -1,6 +1,15 @@
-$body-color: slateblue;
-
-body {
-  color: $body-color;
-  font-family: sans-serif;
+del {
+    color: red;
+}
+ins {
+    color: gold;
+}
+dfn {
+    color: salmon;
+}
+kbd {
+    background: sienna;
+}
+mark {
+    background: rgb(12, 202, 202);
 }
